@@ -1,0 +1,93 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce inCoin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-20 21:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: incoin"
+
+#. Description of the plugin
+msgid "A crypto payment gateway for WooCommerce."
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:64
+msgid "Description"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:55
+msgid "Enable inCoin"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:70
+msgid "Enable sandbox"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:53
+msgid "Enable/Disable"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://incoin.biz/"
+msgstr ""
+
+#. Author of the plugin
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:21
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:61
+msgid "inCoin"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:83
+msgid "Live API key"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:87
+msgid "Live API secret"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:140
+msgid ""
+"Oops, looks like something went wrong. Please choose another payment method "
+"or try again later."
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:66
+msgid "Pay with crypto via inCoin"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:69
+msgid "Sandbox"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:75
+msgid "Sandbox API key"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:79
+msgid "Sandbox API secret"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:22
+msgid "Take payments in crypto via inCoin"
+msgstr ""
+
+#: includes/gateways/incoin/class-wc-gateway-incoin.php:59
+msgid "Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce inCoin"
+msgstr ""
+
+#: incoin.php:51
+msgid "WooCommerce inCoin requires WooCommerce to be installed and active."
+msgstr ""
